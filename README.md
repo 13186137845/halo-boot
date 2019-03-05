@@ -15,6 +15,10 @@
 * https://github.com/42BV/beanmapper-spring-boot-starter
 * https://github.com/SoftwareKing/orika-spring-boot-starter
 
+### log-starter日志隔离Starter
+
+https://github.com/alipay/sofa-common-tools/tree/master/log-sofa-boot-starter
+
 ### Spring Boot集成Swagger
 
 * 1.支持多包扫描支持
